@@ -87,10 +87,12 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Botox injections are most commonly used around the eyes, mouth, and
+          forehead. That’s because these are the areas most commonly impacted by
+          fine lines. It’s important to note that Botox can’t eliminate wrinkles
+          caused by gravity or sun damage. It can only minimize wrinkles caused
+          by muscle contractions and facial expressions.
         image:
           altText: Featured icon two
           elementId: ''
