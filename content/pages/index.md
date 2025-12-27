@@ -57,7 +57,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Botox is a type of neurotoxin (botulinum toxin type A) that blocks
           nerve signals to specific muscles. When the muscles can no longer
