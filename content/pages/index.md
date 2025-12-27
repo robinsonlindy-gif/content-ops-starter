@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Erase Wrinkles andRestore Youthwith Botox
+      text: Erase Wrinkles and Restore Youth with Botox
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
