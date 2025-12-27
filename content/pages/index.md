@@ -200,7 +200,7 @@ sections:
         - name: Phone Number
           label: Phone Number
           hideLabel: true
-          placeholder: Your message
+          placeholder: Phone Number
           width: full
           type: TextareaFormControl
       elementId: contact-form
