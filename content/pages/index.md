@@ -198,7 +198,7 @@ sections:
           width: full
           type: EmailFormControl
         - name: ''
-          label: Phone Number
+          label: ''
           hideLabel: true
           placeholder: Phone Number
           width: full
