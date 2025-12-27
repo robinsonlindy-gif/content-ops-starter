@@ -197,7 +197,7 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
-        - name: message
+        - name: Phone Number
           label: Phone Number
           hideLabel: true
           placeholder: Your message
