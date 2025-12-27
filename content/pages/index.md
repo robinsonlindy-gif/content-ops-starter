@@ -7,7 +7,7 @@ sections:
       text: Erase Wrinkles and Restore Youth with Botox
       color: text-dark
       type: TitleBlock
-    subtitle: New Patients $9/Unit
+    subtitle: ''
     text: >
       Botox is the most popular non-surgical cosmetic procedure in the United
       States. Due to its long and successful history, it’s one of the most
