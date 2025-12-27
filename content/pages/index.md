@@ -185,11 +185,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      We’re excited to welcome you for your first Botox appointment! When you
+      arrive, we’ll sit down with you and review your treatment steps. We’ll
+      invite you to tell us about specific concerns and ensure we fully
+      understand your treatment expectations. Then, we’ll carefully mark the
+      treatment areas and gently clean the skin.
     media:
       fields:
         - name: name
