@@ -9,9 +9,12 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Botox is the most popular non-surgical cosmetic procedure in the United
+      States. Due to its long and successful history, it’s one of the most
+      trusted wrinkle-minimizing treatments in existence. Millions of people
+      receive injections of this popular neurotoxin every year. But despite its
+      rising popularity, you may have questions or even trepidation about this
+      celebrity-favorite procedure.
     actions:
       - label: Learn More
         altText: ''
