@@ -86,7 +86,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 20x
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >
           Botox injections are most commonly used around the eyes, mouth, and
           forehead. That’s because these are the areas most commonly impacted by
