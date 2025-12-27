@@ -200,7 +200,7 @@ sections:
         - name: ''
           label: ''
           hideLabel: true
-          placeholder: Phone Number
+          placeholder: ''
           width: full
           type: TextareaFormControl
       elementId: contact-form
