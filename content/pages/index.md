@@ -58,10 +58,12 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Botox is a type of neurotoxin (botulinum toxin type A) that blocks
+          nerve signals to specific muscles. When the muscles can no longer
+          fully contract, they can no longer contribute to the formation of
+          wrinkles. As the targeted muscles relax, the face appears smoother,
+          softer, and younger.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
