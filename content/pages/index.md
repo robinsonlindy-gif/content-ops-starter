@@ -113,7 +113,7 @@ sections:
         type: FeaturedItem
       - title: ''
         subtitle: ''
-        text: "The way you look has a significant impact on your self-perception and confidence. Although it’s natural to develop wrinkles as you age, it’s not easy to watch them appear. It can be comforting to know there are ways to reduce their appearance and stay youthful-looking with injectable wrinkle reducers. Studies show that Botox has a high patient satisfaction rate.<sup>1</sup>\_Besides smoothing existing wrinkles, it’s also a preventative treatment that can slow the development of future facial lines. Here are some of the top reasons to receive Botox injections in Lexington, KY:\n"
+        text: "Studies show that Botox has a high patient satisfaction rate.\_Besides smoothing existing wrinkles, it’s also a preventative treatment that can slow the development of future facial lines.\n"
         image:
           altText: Featured icon three
           elementId: ''
