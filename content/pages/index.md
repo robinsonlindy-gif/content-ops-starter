@@ -85,7 +85,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
+      - title: ''
         subtitle: ''
         text: >
           Botox injections are most commonly used around the eyes, mouth, and
