@@ -171,7 +171,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Book Your FREE
+      text: Book Your FREE Consultation
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
