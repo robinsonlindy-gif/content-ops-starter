@@ -203,6 +203,11 @@ sections:
           placeholder: ''
           width: full
           type: TextareaFormControl
+        - type: CheckboxFormControl
+          name: updates
+          label: I have read and accept the legal terms.
+          isRequired: false
+          width: full
       elementId: contact-form
       styles:
         self:
